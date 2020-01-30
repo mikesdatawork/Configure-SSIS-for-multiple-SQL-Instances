@@ -33,7 +33,9 @@ D:Program FilesMicrosoft SQL Server120DTSBinn
  
 The actual file name is called this: MsDtsSrvr.ini You'll notice it's basically an XML file with extension .ini
 In any event; here's what you'll need to edit:
-</p>      
+
+
+
 ## ini-File
 ```SQL
 <?xml version="1.0" encoding="utf-8"?>
